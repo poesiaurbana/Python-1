@@ -11,5 +11,5 @@ class Pastel:
     @classmethod
     def Pastel_vainilla(cls):
         return cls(['harina,huevos,vainilla'])
-    
+        
 print(Pastel.Pastel_chocolate())
