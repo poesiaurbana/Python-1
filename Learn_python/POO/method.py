@@ -1,4 +1,4 @@
-#Clase para explicar el concepto de classmethod
+#Clase para explicar el concepto de classmethod.
 class Pastel:
     def __init__(self,ingredientes):
         self.ingredientes = ingredientes
