@@ -5,6 +5,7 @@ class Pastel:
     def __repr__(self):
         return f'Ingredientes({self.ingredientes !r})'
 
+#Es mas dependiente del la clase a diferencia del static
     @classmethod
     def Pastel_chocolate(cls):
         return cls (['harina,huevos,chocolate'])
